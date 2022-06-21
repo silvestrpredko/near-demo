@@ -46,7 +46,8 @@ cargo build-contracts
 ## How to run tests
 
 For this demo was implemented integration tests that are used a `Near` [workspaces](https://github.com/near/workspaces-rs)
-Please take a look at `integration-tests`
+
+Please take a look on `integration-tests`
 
 ```sh
 cargo run-tests
